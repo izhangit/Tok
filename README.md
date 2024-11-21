@@ -30,7 +30,6 @@ This project focuses on building a robust **data engineering solution** to analy
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/user-attachments/assets/2cebe6d7-b454-4ee5-aa47-42f905d95abc)
 
 ---
 
