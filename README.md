@@ -30,6 +30,8 @@ This project focuses on building a robust **data engineering solution** to analy
 
 ## Architecture Diagram
 
+![Architecture Diagram](https://github.com/user-attachments/assets/f03d11b9-1ada-4946-b77c-4784e283aa94)
+
 
 ---
 
@@ -45,7 +47,7 @@ The project workflow consists of the following stages:
 6. **Visualization**: Insights are visualized with tools like **Power BI**, **Looker Studio**, and **Tableau**.
 
 
-![image](https://github.com/user-attachments/assets/3177d5d6-58e2-4608-943f-dadf47abb19d)
+![Pipeline](https://github.com/user-attachments/assets/a798c110-f1f9-41ba-83c9-b516b87959cb)
 
 ---
 
